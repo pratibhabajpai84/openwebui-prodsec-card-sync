@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "openwebui-prodsec-card-sync",
+  "name": "Open WebUI ProdSec Flashcard Sync",
+  "author": "Open WebUI Agent",
+  "repoUrl": "https://github.com/pratibhabajpai84/openwebui-prodsec-card-sync",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "theme": [],
+  "enableOnMobile": true,
+  "description": "Automatically imports Product Security & Maturity Interview flashcards exported by your Open WebUI Daily Agent without manual copy-pasting.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModify"
+    }
+  ]
+}
